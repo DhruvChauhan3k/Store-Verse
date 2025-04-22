@@ -1,6 +1,6 @@
 # 🛒 Store Verse
 
-This is a full-stack web application built using the **PERN stack** – PostgreSQL, Express.js, React, and Node.js. The application allows users to browse products, add them to a cart, register/login, and place orders. It’s designed with modern UI components and optimized for both development and production environments.
+This is a full-stack web application built using the **PERN stack** – PostgreSQL, Express.js, React, and Node.js. The application allows to browse products, add new products or remove them from the store. It’s designed with modern UI components and optimized for both development and production environments.
 
 ---
 
