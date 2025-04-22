@@ -7,7 +7,6 @@ This is a full-stack web application built using the **PERN stack** – PostgreS
 ## 🚀 Features
 
 - 🛍️ Product listing with detailed view  
-- 👤 User authentication and authorization (JWT)  
 - 🛒 Dedicated pages with details for each item  
 - ➕ Ability to list new items for sale  
 - ❌ Option to remove items from the store  
